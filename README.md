@@ -1,4 +1,4 @@
-# sephora_exclusivity_analysis
+# DOES PRODUCT EXCLUSIVITY DRIVE CUSTOMER ENGAGEMENT?
 
 Exploratory data analysis of Sephora product and review data to evaluate whether Sephora-exclusive products show different engagement patterns.
 
